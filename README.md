@@ -1,11 +1,11 @@
-## 誰
+## 自己紹介
 
-Webプログラマ。仕事はフロントエンドが中心。福岡ソフトバンクホークスのファン。
+Webプログラマ。仕事はフロントエンドが中心。
 
 ## 得意なこと
 
 - Webフロントエンド
-- TypeScript
+- TypeScript関連
 - React(Next.js)、Angular
 - GraphQL（Hasura）
 
