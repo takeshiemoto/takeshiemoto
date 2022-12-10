@@ -1,3 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=takeshiemoto" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takeshiemoto&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takeshiemoto&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takeshiemoto&theme=dracula)
