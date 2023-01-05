@@ -1,4 +1,4 @@
-# Takeshi Emoto🫡
+# Takeshi Emoto
 
 Web Programmer in Osaka, Japan
 
