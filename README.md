@@ -1,1 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takeshiemoto&theme=default)
+"I am a Front-End Engineer at Chatwork Co., Ltd. 📘✨"
