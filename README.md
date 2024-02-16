@@ -1,3 +1,4 @@
 ## Profile
 
-- 📍 Location: Osaka, Japan
+📍 Location: Osaka, Japan
+
